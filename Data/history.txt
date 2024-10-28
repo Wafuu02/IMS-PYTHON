@@ -1,0 +1,10 @@
+Resupplied: Long=100, Short=100, Photo=100, Black=5, Yellow=5, Magenta=5, Cyan=5
+Resupplied: Long=100, Short=100, Photo=100, Black=1, Yellow=1, Magenta=1, Cyan=1 at 2024-10-05 18:46:38
+Deducted: Long=0, Short=351, Photo=0, Black=0, Yellow=1, Magenta=1, Cyan=1 at 2024-10-05 18:50:54
+Deducted: Long=0, Short=351, Photo=0, Black=0, Yellow=1, Magenta=1, Cyan=1 at 2024-10-05 18:53:42
+Encoded Print - Pages: 351, Type: Colored, Size: Short
+Resupplied: Long=100, Short=100, Photo=100, Black=1, Yellow=1, Magenta=1, Cyan=1 at 2024-10-05 18:56:32
+Deducted: Long=351, Short=0, Photo=0, Black=0, Yellow=1, Magenta=1, Cyan=1 at 2024-10-05 18:56:48
+Encoded Print - Pages: 351, Type: Colored, Size: Long
+Resupplied: Long=1, Short=1, Photo=1, Black=1, Yellow=1, Magenta=1, Cyan=1 at 2024-10-05 20:46:58
+Resupplied: Long=1, Short=1, Photo=1, Black=1, Yellow=1, Magenta=1, Cyan=1 at 2024-10-05 20:47:09

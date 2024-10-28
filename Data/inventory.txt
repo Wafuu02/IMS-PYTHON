@@ -1,0 +1,7 @@
+long_paper:1151
+short_paper:149
+photo_paper:1297
+black_ink:115
+yellow_ink:111
+magenta_ink:111
+cyan_ink:111
